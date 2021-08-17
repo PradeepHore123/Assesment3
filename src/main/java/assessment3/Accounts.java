@@ -13,7 +13,7 @@ import org.slf4j.LoggerFactory;
 public class Accounts {
 	private static Logger logger = LoggerFactory.getLogger(Accounts.class);
 	public static void main(String[] args) {
-		String DB_URL = "jdbc:mysql://localhost/bankaccount";
+		String DB_URL = "jdbc:mysql://localhost/assessment3";
 		String DB_USER  = "root";
 		String DB_PASSWORD = "Nuvelabs123$";
 
