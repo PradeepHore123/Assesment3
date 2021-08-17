@@ -21,7 +21,7 @@ public class Accounts {
 				Statement statement = connection.createStatement();) {
 			create(statement); //create
 			retrieve(statement);
-			update(statement);
+//			update(statement);
 			deposit(statement);
 //			delete(statement);
 
